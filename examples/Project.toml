@@ -1,0 +1,4 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+MatplotlibPColorMesh = "c00a63a0-0404-4ae2-823b-1b542e02ef00"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
