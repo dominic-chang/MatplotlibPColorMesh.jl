@@ -1,0 +1,13 @@
+name = "PColorMesh"
+uuid = "c00a63a0-0404-4ae2-823b-1b542e02ef00"
+authors = ["Dominic Chang"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
